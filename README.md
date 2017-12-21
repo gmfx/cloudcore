@@ -1,2 +1,2 @@
-# cloud core practices
+# Cloud Core Practices
 
