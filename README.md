@@ -1,2 +1,2 @@
-# cloudcore
-Core Platform 
+# cloud core practices
+
